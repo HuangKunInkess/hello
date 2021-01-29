@@ -2,9 +2,10 @@
   "name": "src",
   "version": "1.0.0",
   "dependencies": {
+    "@cloudbase/cli": "^1.3.0",
     "serve": "^11.3.2"
   },
   "scripts": {
-    "run": "serve"
+    "run": "cloudbase"
   }
 }
